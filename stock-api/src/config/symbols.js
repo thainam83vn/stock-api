@@ -1,0 +1,22 @@
+module.exports = [
+  { company: "Aurora Cannabis", symbol: "ACB" },
+  { company: "General Electric", symbol: "GE" },
+  { company: "Ford", symbol: "F" },
+  { company: "Microsoft", symbol: "MSFT" },
+  { company: "APPL", symbol: "APPL" },
+  { company: "Fitbit", symbol: "FIT" },
+  { company: "GoPro", symbol: "GPRO" },
+  { company: "Cronos Group", symbol: "CRON" },
+  { company: "Advanced Micro Devices", symbol: "AMD" },
+  { company: "Tesla", symbol: "TSLA" },
+  { company: "Disney", symbol: "DIS" },
+  { company: "Snap", symbol: "SNAP" },
+  { company: "Canopy Growth Corp.", symbol: "CGC" },
+  { company: "HEXO Corp. ", symbol: "HEXO" },
+  { company: "Facebook", symbol: "FB" },
+  { company: "Alibaba", symbol: "BABA" },
+  { company: "Zynga", symbol: "ZNGA" },
+  { company: "Plug Power Inc.", symbol: "PLUG" },
+  { company: "Amazon", symbol: "AMZN" },
+  { company: "Bank of America", symbol: "BAC" }
+];
